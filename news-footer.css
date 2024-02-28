@@ -1,0 +1,16 @@
+footer{
+    margin:0rem 2rem 2rem 2rem;
+}
+
+.footer-flexbox-container{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+}
+.footer-item1{
+    height: 2rem;
+}
+.footer-item2{
+    height: 2rem;
+
+}

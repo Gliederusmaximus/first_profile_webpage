@@ -1,0 +1,23 @@
+footer{
+    margin-bottom:2rem;
+}
+
+.footer-flexbox-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 2px solid black;
+    padding-top: 1rem;
+}
+.footer-item1{
+    height: 2rem;
+    position: relative;
+    left: 3rem;
+    top:1rem;
+}
+.footer-item2{
+    height: 2rem;
+    position: relative;
+    right: 3rem;
+    top: 1rem;
+}
